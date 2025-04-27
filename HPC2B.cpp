@@ -89,3 +89,47 @@ int main() {
     cout << endl;
     return 0;
 }
+/*
+gescoe@gescoe:~$ g++ -o gfg -fopenmp HPC2B.cpp 
+
+gescoe@gescoe:~$ ./gfg
+
+
+
+ enter total no of elements=>7
+
+
+
+ enter elements=>51
+
+11
+
+78
+
+45
+
+23
+
+90
+
+77
+
+
+
+ sorted array is=>
+
+11
+
+23
+
+45
+
+51
+
+77
+
+78
+
+90
+
+*/
